@@ -19,3 +19,7 @@ There is also a disclaimer on the documentation that the tutorial isn't *sponsor
 
 ## And FINALLY
 If you love this tutorial, please drop a donation to Cotswold Jam. :-)
+
+## Photos
+![](IMG_20180304_133417.jpg "Running the code in Thonny on a RPi3")
+![](IMG_20180304_133413.jpg "The component setup") 
