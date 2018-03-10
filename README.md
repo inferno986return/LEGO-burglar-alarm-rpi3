@@ -13,7 +13,7 @@ The code uses the [GPIOZero](https://github.com/RPi-Distro/python-gpiozero/) lib
 Use one of the many Python IDEs preinstalled on the Raspberry Pi. I personally use [Thonny](http://thonny.org/), but [IDLE](https://www.python.org/downloads/) works well too.
 
 ## Licensing
-Andrew Oakley, the tutorial's author licensed the code and instructions in the public domain. To simplify things, I have formally licensed the code and documenation in this repository under **The Unlicense**.
+Andrew Oakley, the tutorial's author licensed the code and instructions in the public domain. To simplify things, I have formally licensed the code and documenation in this repository under the **Creative Commons Zero 1.0 Universal (CC0 1.0)**.
 
 There is also a disclaimer on the documentation that the tutorial isn't *sponsored, authorized or endorsed by the LEGO Group*. Sellotape® are also unlikely to endorse this tutorial as well.
 
